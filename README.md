@@ -1,2 +1,2 @@
 # TDD_rubyonrails
-TDD and BDD utilizando rspec
+TDD and BDD utilizando Rspec e outras Gem
