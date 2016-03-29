@@ -1,7 +1,7 @@
 FactoryGirl.define do
   factory :room do
-    title "MyString"
-    location "MyString"
-    description "MyText"
+    title "Quarto Y"
+    location "3 Andar"
+    description "Sem ar condicionado"
   end
 end
